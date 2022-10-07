@@ -9,4 +9,4 @@ We implemented a millimeter wave radar system based on deep learning and edge co
 
 I'm responsible for the design and implementation of neural networks on embedded processors, and coordinate with radar data.
 
-![pic1.png](pic1.png)
+![Pic1.png](Pic1.png)
